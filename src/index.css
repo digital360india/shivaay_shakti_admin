@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box{
+    scroll-snap-type:x mandatory ;
+    }
+
+ .cardcontainer{
+        scroll-snap-align:start;
+        }
+        
+.knowmorebtn{
+
+            width: 100px;
+            height: 40px;
+            color: white;
+            display: grid;
+            place-content: center;
+            border-radius: 5px;
+            background: var(--button, linear-gradient(103deg, #E5C75E 24.85%, #B96E38 111.06%));
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+          }
