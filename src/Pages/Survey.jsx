@@ -45,10 +45,10 @@ console.log(e);
   },[])
   return (
     <>
-     <div className='  w-[100vw] h-screen overflow-y-auto  pl-72  pt-28  ' >
-     <div className=' w-[80vw]    '>
+     <div className='  w-[100vw] h-screen overflow-y-auto  pl-[18vw]  pt-[14vh]  ' >
+     <div className=' w-[80vw]'>
         <div className='  '>
-        <h1 className='  text-3xl font-bold underline underline-offset-8  '>Survey Data</h1>
+        <h1 className='  text-3xl font-semibold underline underline-offset-8  '>Survey Data</h1>
         <table cellPadding={2} cellSpacing={2} className=' mt-8   text-left w-full   ' >
           <tr className=' text-2xl border border-black bg-black  text-white p-2  '>
             <th>Sr. No.</th>

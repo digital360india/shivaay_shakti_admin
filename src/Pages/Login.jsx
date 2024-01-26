@@ -5,17 +5,19 @@ import { isPassword } from '../utils';
 function Login({logged,setLogged}) {
 const [message,setMessage]=useState("");
   const [data,setData]=useState({
-    username:"",
+    email:"",
     password:""
   })
  async function handlesubmit(e)
   {
+    setMessage("Loading")
 e.preventDefault();
 if( isPassword(data.password.trim()))
 {
-  setMessage("")
+  
   try{
   const res=await axios.post("https://shivaay-shakti-backend-1.onrender.com/api/auth/adminlogin",data);
+  // const res=await axios.post("http://localhost:5000/api/auth/adminlogin",data);
 if(res.status===200)    
 {
   //console.log(res.data.user);
@@ -28,6 +30,7 @@ if(res.status===200)
   }
 catch(e)
 {
+  console.log(e);
   setMessage(e.response.data.message);
 }
 }
@@ -46,8 +49,8 @@ else{
         <h1 className='text-5xl ' >Admin Login</h1>
         <form className=' flex flex-col mt-10 gap-5 ' onSubmit={handlesubmit} >
           <div className=' flex flex-col gap-2 '>
-         <label className=' text-2xl  ' htmlFor="">Username or Email</label>
-         <input type="text" name="username" value={data.username} onChange={(e)=>setData({...data,[e.target.name]:e.target.value})} className=' font-semibold  px-3   text-red-900  rounded-lg py-1 '  />
+         <label className=' text-2xl  ' htmlFor="">Email</label>
+         <input type="email" name="email" value={data.email} onChange={(e)=>setData({...data,[e.target.name]:e.target.value})} className=' font-semibold  px-3   text-red-900  rounded-lg py-1 '  />
          </div>
           <div className=' flex flex-col gap-2 '>
          <label className=' text-2xl ' htmlFor="">Password</label>
