@@ -41,7 +41,7 @@ console.log(e);
             <th>Type</th>
             <th>Transaction Id</th>
             <th>Status</th>
-            <th></th>
+            {/* <th></th> */}
           </tr>
        <div className='mt-4'></div>
         {data?.data?.map((value,i)=>
@@ -53,10 +53,10 @@ console.log(e);
           <td>{value?.course_type}</td>
           <td>{value?.transaction_id}</td>
           <td>{value?.transaction_status}</td>
-          <td className=' space-x-5 '>
+          {/* <td className=' space-x-5 '>
           <button onClick={()=>setData({...data,toggle:true,index:i})}  className=' hover:text-blue-700 underline  font-bold ' >Modify</button>
           {data?.index===i&&<PendingPopup value={value} data={data}  setToggle={setData} />}
-          </td>
+          </td> */}
           </tr>  
           </>
           )}

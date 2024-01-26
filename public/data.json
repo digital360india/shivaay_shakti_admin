@@ -1,0 +1,161 @@
+[
+  {
+    "_id": 1,
+    "name": "Stress Management ",
+    "description1": "In Stress management program we are focusing on  mental illness specially  on anxiety and depression. Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.  Fostering an individual  yoga practice can help forestall and decrease stress which is a shared objective among individuals  who needs to make positive  development  and spotlight  on personal growth . Yoga targets stress by elevating mood , considering  expanded care   and expanding  self -empathy .This program  helps you to expands the capacity to cope with stress and nervousness, works on interactive abilities , profound prosperity, tactile ,mental and actual wellbeing , improve concentration  so you can handle circumstances  with a calm intellect . ",
+    "description":"In Stress management program we are focusing on  mental illness specially  on anxiety and depression. Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.",
+    "main_url": "/assets/Programs/1/mainurl.jpg",
+    "course_type1": "Personal Training Course",
+    "Personal_description1": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
+    "live_sessions1": 60,
+    "recorded_sessions1": 80,
+    "course_duration_days1": 78,
+    "beginner_friendly1": true,
+    "female_oriented1": true,
+    "age_range1": "25-40",
+    "price1": 30000,
+    "personal_url1": "/assets/Programs/1/Personal.jpg",
+    "course_type2": "Group Training Course",
+    "Group_description2": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
+    "live_sessions2": 60,
+    "recorded_sessions2": 80,
+    "course_duration_days2": 78,
+    "beginner_friendly2": true,
+    "female_oriented2": true,
+    "age_range2": "25-40",
+    "price2": 2400,
+    "group_url2": "/assets/Programs/1/Group.jpg",
+    "group_timing": [
+      {
+         "times": "6:00am to 7:00am IST",
+       "session": "Morning"
+       },
+      { 
+        "times": "6:00pm to 7:00pm IST",
+         "session": "Evening" 
+        }
+    ],
+    "group_starting_date": "2024-01-10",
+    "group_batch_size": "60",
+    "personal_duration": [
+      {
+        "timing": "1 Month",
+        "price": 5000
+      },
+      {
+        "timing": "3 Month",
+        "price": 15000
+      },
+      {
+        "timing": "9 Month",
+        "price": 25000
+      }
+    ],
+    "group_duration": [
+      {
+        "timing1": "1 Month",
+        "price3": 2400
+      },
+      {
+        "timing1": "4 Month",
+        "price3": 9400
+      },
+      {
+        "timing1": "6 Month",
+        "price3": 14000
+      },
+      {
+        "timing1": "12 Month",
+        "price3": 28000
+      }
+    ],
+    "banner1":"/assets/Programs/1/banner1.jpg",
+    "banner2":"/assets/Programs/1/banner2.jpg",
+    "banner3":"/assets/Programs/1/banner3.jpg",
+    "banner4":"/assets/Programs/1/banner4.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Weight Loss ",
+    "description1": "  Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga .This program  is  designed  for  weight loss ,postural yoga , circular movements and yoga movements etc . Incorporate  these postures into your daily schedule for generally enhancements in stretching  and wellness .We will be focusing with more intensity to increase your heart rate high during the session and burn more calories . We will help you to achieve your goals with right yogic practice.",
+    "description":"Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga .",
+    "main_url": "/assets/Programs/2/mainurl.jpg",
+    "course_type1": "Personal Training Course",
+    "Personal_description1": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
+    "live_sessions1": 60,
+    "recorded_sessions1": 80,
+    "course_duration_days1": 78,
+    "beginner_friendly1": true,
+    "female_oriented1": true,
+    "age_range1": "25-40",
+    "price1": 30000,
+    "personal_url1": "/assets/Programs/2/Personal.jpg",
+    "course_type2": "Group Training Course",
+    "Group_description2": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
+    "live_sessions2": 60,
+    "recorded_sessions2": 80,
+    "course_duration_days2": 78,
+    "beginner_friendly2": true,
+    "female_oriented2": true,
+    "age_range2": "25-40",
+    "price2": 2400,
+    "group_url2": "/assets/Programs/2/Group.jpg",
+    "group_timing": [
+      {
+         "times": "6:00am to 7:00am IST",
+       "session": "Morning"
+       },
+      { 
+        "times": "8:00am to 9:00am IST",
+         "session": "Morning" 
+        },
+      { 
+        "times": "4:00pm to 5:00pm IST",
+         "session": "Evening" 
+        },
+        { 
+        "times": "7:00pm to 8:00pm IST",
+         "session": "Evening" 
+        }
+    ],
+    "group_starting_date": "2024-01-10",
+    "group_batch_size": "60",
+    "personal_duration": [
+      {
+        "timing": "1 Month",
+        "price": 5000
+      },
+      {
+        "timing": "3 Month",
+        "price": 15000
+      },
+      {
+        "timing": "9 Month",
+        "price": 25000
+      }
+    ],
+    "group_duration": [
+      {
+        "timing1": "1 Month",
+        "price3": 2400
+      },
+      {
+        "timing1": "4 Month",
+        "price3": 9400
+      },
+      {
+        "timing1": "6 Month",
+        "price3": 14000
+      },
+      {
+        "timing1": "12 Month",
+        "price3": 28000
+      }
+    ],
+  "banner1":"/assets/Programs/1/banner1.jpg",
+      "banner2":"/assets/Programs/2/banner2.jpg",
+      "banner3":"/assets/Programs/2/banner3.jpg",
+      "banner4":"/assets/Programs/2/banner4.jpeg"
+     
+  }
+]
