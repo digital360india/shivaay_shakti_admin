@@ -9,7 +9,7 @@ const SurveyPreview = ({data,toggle,setToggle}) => {
      closeOnEscape={false}
      contentStyle={{
        width: "90vw",
-       height: "90vh",
+       height: "95vh",
        overflow: "hidden",
        padding: "30px",
        backdropFilter: "blur(5px)",
@@ -28,6 +28,14 @@ const SurveyPreview = ({data,toggle,setToggle}) => {
                    <tr className=' border border-white' >
                     <th className=' text-black border border-white   '>Name</th>
                     <td>{data?.name}</td>
+                   </tr>
+                   <tr className=' border border-white' >
+                    <th className=' text-black border border-white   '>Contact</th>
+                    <td>{data?.contact}</td>
+                   </tr>
+                   <tr className=' border border-white' >
+                    <th className=' text-black border border-white   '>Email</th>
+                    <td>{data?.email}</td>
                    </tr>
                    <tr className=' border border-white'>
                     <th className=' text-black   border border-white '>Birth Date</th>
