@@ -4,7 +4,7 @@ function Header({logged,setLogged}) {
   const navigate=useNavigate();
   return (
     <div className=' bg-gray-100 border  border-gray-400 w-screen fixed   '>
-     <h1 className=' p-5   text-red-600    shadow-inner   font-serif  font-bold    text-center  sm:text-2xl md:text-3xl lg:text-5xl '>Shivaay Shakti Yog</h1>
+     <h1 className=' p-5   text-red-600    shadow-inner   font-serif  font-bold    text-center  sm:text-2xl md:text-3xl lg:text-5xl '>Shivaay Shakti Yog - Admin</h1>
      <button onClick={()=>{
       localStorage.removeItem("user");
 setLogged(false)
