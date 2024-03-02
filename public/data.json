@@ -1,9 +1,102 @@
 [
+  
+ 
   {
+    "_id": 2,
+    "name": "Weight Loss ",
+    "description1": " Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga . This program  is  designed  for  weight loss ,postural yoga , circular movements and yoga movements etc . It might seem challenging at first , but please take it at your own pace and allow the body to adapt over a few classes . Incorporate  these postures into your daily schedule for generally enhancements in stretching  and wellness .We will be focusing with more intensity to increase your heart rate high during the session and burn more calories . We will help you to achieve your goals with right yogic practice.  This program is for every age group . ",
+    "questions":"<h1   style='font-size: 16px;font-weight:bold;' >Signs of Gaining Extra Weight?</h1><p style='margin-top:10px;'>In many cases, symptoms are common to most people who are gaining weight, no matter what the cause is. These symptoms include:</p> <ol style='list-style-type:decimal;list-style-position: inside;margin-top:10px;'> <li>You have high blood pressure</li> <li>You get breathless</li> <li>You snore in the night</li> <li>Skin sensitivity</li> <li>You are always tired</li> </ol><h1 style='margin-top:10px;font-size: 16px;font-weight:bold;'>Causes of Excessive Weight Gain?</h1><p style='margin-top:10px;'>Before starting the weight loss journey, it's essential to understand the causes. Only then can you achieve your goal and maintain a healthy life. Here are some reasons that might be causing you to gain weight:</p><ul style='margin-top: 10px; list-style-type: disk; list-style-position: inside;'><li><strong>Hypothyroidism:</strong> A thyroid imbalance can lead to weight gain, along with other symptoms like thinning hair, dry skin, fatigue, and depression.</li> <li><strong>Depression:</strong> Weight gain and obesity can be physical side effects of depression, often linked to higher levels of the stress hormone cortisol.</li><li><strong>Insomnia:</strong> Lack of sleep can lead to weight gain by affecting hormones like cortisol and insulin, as well as disrupting hunger signals.</li><li><strong>Menopause:</strong> Changes in hormones during menopause, coupled with hot flashes and moodiness, may contribute to weight gain.</li><li><strong>Polycystic Ovarian Syndrome (PCOS):</strong> PCOS can cause weight gain due to hormonal imbalances and insuli sensitivity issues.</li><li><strong>Steroids:</strong> Medications like steroids, when used to treat certain conditions, can increase appetite and lead to overeating and weight gain.</li></ul><h1 style='margin-top:10px;font-size: 16px;font-weight:bold;' >Does Yoga Help with Weight Loss?</h1><p style='margin-top:10px; >Incorporating yoga into a weight loss journey can have several benefits:</p><ul  style='margin-top:10px; ' > <li><strong>Increased Metabolic Rate:</strong> Yoga can help boost the metabolic rate, allowing the body to burn more calories at rest.</li> <li><strong>Mindfulness:</strong> Yoga promotes increased awareness of the body and mind, helping individuals notice hunger, fullness, and fatigue.</li> <li><strong>Stress Reduction:</strong> Decreasing stress through yoga can contribute to better lifestyle decisions, including healthier eating and exercise habits.</li> <li><strong>Overall Well-being:</strong> The combination of physical and mental benefits from yoga can support weight loss efforts.</li></ol><p style='margin-top:10px;'>These off-the-mat benefits, combined with the calories burned during yoga practice, contribute to a person's ability to lose weight. However, the effectiveness may vary based on individual factors.</p>",
+    "description":"Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga .",
+    "main_url": "/assets/Programs/2/mainurl.jpg",
+    "course_type1": "Personal Training Course",
+    "live_sessions1": 60,
+    "recorded_sessions1": 80,
+    "course_duration_days1": 78,
+    "beginner_friendly1": true,
+    "female_oriented1": true,
+    "age_range1": "25-40",
+    "price1": 30000,
+    "personal_url1": "/assets/Programs/2/Personal.jpg",
+    "course_type2": "Group Training Course",
+    "live_sessions2": 60,
+    "recorded_sessions2": 80,
+    "course_duration_days2": 78,
+    "beginner_friendly2": true,
+    "female_oriented2": true,
+    "age_range2": "25-40",
+    "price2": 2500,
+    "group_url2": "/assets/Programs/2/Group.jpg",
+    "group_timing": [
+      {
+         "times": "7:00am to 8:00am IST",
+        "link":"https://us06web.zoom.us/j/6425164108?pwd=XnWXyXgt5skd2z5wSHu7nfp0hRSkXL.1&omn=73581845534",
+       "session": "Morning"
+       },
+      { 
+        "times": "6:30pm to 7:30pm IST",
+        "link":"https://us06web.zoom.us/j/6425164108?pwd=XnWXyXgt5skd2z5wSHu7nfp0hRSkXL.1&omn=81840038796",
+         "session": "Evening" 
+        }
+    ],
+    "group_starting_date": "2024-03-04",
+    "group_batch_size": "60",
+    "personal_duration": [
+      {
+        "timing": "1 Month",
+        "price": 5000
+      },
+      {
+        "timing": "3 Month",
+        "price": 15000
+      },
+      {
+        "timing": "9 Month",
+        "price": 25000
+      }
+    ],
+    "group_duration": [
+      {
+        "timing1": "1 Month",
+        "price3": 2500
+      }
+    ],
+  "banner1":"/assets/Programs/1/banner1.jpg",
+      "banner2":"/assets/Programs/2/banner2.jpg",
+      "banner3":"/assets/Programs/2/banner3.jpg",
+      "banner4":"/assets/Programs/2/banner4.jpeg",
+      "group_benefits":[
+        { "icon":"","heading":"Yoga session" },
+        { "icon":"","heading":"Free workshops" },
+        { "icon":"","heading":"Consultancy" },
+        { "icon":"","heading":"6 days classes/week " },
+        { "icon":"","heading":"Twenty four yoga sessions/month" }
+      ],
+      "personal_benefits":[
+        { "icon":"","heading":"Online Live sessions" },
+        { "icon":"","heading":"Recorded sessions" },
+        { "icon":"","heading":"Free Workshops " },
+        { "icon":"","heading":"Free personal consultation " },
+        { "icon":"","heading":"Diet and health tips " },
+        { "icon":"","heading":"Weekly encouraging tasks  " },
+        { "icon":"","heading":"Yogaasana,  pranayama and meditation " }
+      ],
+      "group_card_description":"This program  helps you to expands the capacity to cope with stress and nervousness, works on interactive abilities , profound prosperity, tactile ,mental and actual wellbeing ,improve concentration. ",
+      "personal_card_description":"In personal training  we customized the session according to the person needs . First we will examine your specific necessities and objectives, capacity ,limits  and then we will make a program for you . ",
+      "benefits":[
+        {"heading":"Flexible Body","icon":"/assets/Programs/2/benefits/flexible.svg"},
+        {"heading":"Energize the body","icon":"/assets/Programs/2/benefits/energy.svg"},
+        {"heading":"Reduce Stress","icon":"/assets/Programs/2/benefits/stressmanagement.svg"},
+        {"heading":"Burn Fat","icon":"/assets/Programs/2/benefits/burn_fat.svg"},
+        {"heading":"Boost your Willpower","icon":"/assets/Programs/2/benefits/willpower.svg"},
+        {"heading":"Calm your Mind","icon":"/assets/Programs/2/benefits/calm.svg"}
+      ]
+     
+  },{
     "_id": 1,
     "name": "Stress Management ",
-    "description1": "In Stress management program we are focusing on  mental illness specially  on anxiety and depression. Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.  Fostering an individual  yoga practice can help forestall and decrease stress which is a shared objective among individuals  who needs to make positive  development  and spotlight  on personal growth . Yoga targets stress by elevating mood , considering  expanded care   and expanding  self -empathy .This program  helps you to expands the capacity to cope with stress and nervousness, works on interactive abilities , profound prosperity, tactile ,mental and actual wellbeing , improve concentration  so you can handle circumstances  with a calm intellect . ",
-    "description":"In Stress management program we are focusing on  mental illness specially  on anxiety and depression. Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.",
+    "description1": "In Stress management program we are focusing on  mental illness specially  on anxiety and depression. Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.  Fostering an individual  yoga practice can help forestall and decrease stress which is a shared objective among individuals  who needs to make positive  development  and spotlight  on personal growth . Yoga targets stress by elevating mood , considering  expanded care   and expanding  self -empathy .This program  helps you to expands the capacity to cope with stress and nervousness, works on interactive abilities , profound prosperity, tactile ,mental and actual wellbeing , improve concentration  so you can handle circumstances  with a calm intellect .",
+    "description":"In Stress management program we are focusing on  mental illness specially  on anxiety and depression.Yoga proceeds to develop in ubiquity as individuals experience  its physical  and mental advantages.  ",
+    "questions":" <h1  style='font-size: 16px;font-weight:bold;'>What are the Signs and Symptoms of Stress?</h1><p style='margin-top:10px;'>Stress can affect our emotions, our body, and how we behave in lots of different ways. Sometimes when we are stressed, we might be able to tell right away. But at other times, we might keep going without recognizing the signs.</p><ul style='list-style-type:decimal;list-style-position: inside;margin-top:10px;'><li>Difficulty breathing</li><li>Panic attacks</li><li>Blurred eyesight or sore eyes</li><li>Sleep problems< li><li>Fatigue</li><li>Muscle aches and headaches</li><li>Chest pains and high blood pressure</li><li>Indigestion or heartburn</li><li>Constipation or diarrhea</li><li>Feeling sick, dizzy, or fainting</li><li>Sudden weight gain or weight loss</li><li>Developing rashes or itchy skin</li><li>Sweating</li><li>Changes to your period or menstrual cycle</li></ul><h2 style='font-size: 16px;font-weight:bold; margin-top:10px'>How Stress Can Make You Feel?</h2> <ul style='list-style-type:decimal;list-style-position: inside;margin-top:10px;'><li>Irritable, angry, impatient, or wound up</li><li>Over-burdened or overwhelmed</li><li>Anxious, nervous, or afraid</li><li>Like your thoughts are racing and you can't switch off</li><li>Unable to enjoy yourself</li><li>Depressed</li><li>Uninterested in life</li><li>Like you've lost your sense of humour</li><li>A sense of dread</li><li>Worried or tense</li><li>Neglected or lonely</li></ul><h2 style='font-size: 16px;font-weight:bold; margin-top:10px'>How Stress Can Make You Behave?</h2><ul style='list-style-type:decimal;list-style-position: inside;margin-top:10px;'><li>Find it hard to make decisions</li><li>Unable to concentrate</li><li>Unable to remember things, or make your memory feel slower than usual</li><li>Snap at people</li><li>Bite your nails</li><li>Pick at or itch your skin</li><li>Grind your teeth or clench your jaw</li><li>Experience sexual problems, such as losing interest in sex or being unable to enjoy sex</li><li>Eat too much or too little</li><li>Smoke, use recreational drugs, or drink alcohol more than you usually would</li><li>Restless, like you can't sit still</li><li>Cry or feel tearful</li><li>Spend or shop too much</li><li>Not exercise as much as you usually would, or exercise too much</li><li>Withdraw from people around you</li></ul><h1  style='font-size: 16px;font-weight:bold;margin-top:10px;'>Does Yoga Help You to Reduce Stress?</h1><p style='margin-top:10px;'>Yoga encourages mental and physical relaxation, which helps reduce stress and anxiety. The physical postures promote flexibility, relieve tension, and alleviate pain.</p><p style='margin-top:5px;'>Yoga poses may help you release physical blockages like muscle knots, helping release emotions and tension. They also promote the release of mood-boosting endorphins, which are the feel-good hormones that can positively affect how you handle stress.</p><p style='margin-top:5px;'>Focusing on the present moment during your yoga practice enhances your awareness, boosts your concentration, and centers your mind.</p><p style='margin-top:10px;'>As you become aware of the transitory nature of your bodily sensations, thoughts, and feelings, you may find it easier to let go of attachments to positive, negative, and neutral experiences. You may also learn to cultivate feelings such as love, joy, and serenity.</p><p style='margin-top:5px;'>Breathing exercises, known as pranayama in Sanskrit, teach you to relax, regulate your breath, and breathe deeply. This helps reduce stress and calm your body and mind. Breathing techniques can also enhance your sleep quality and encourage mindfulness.</p>",
     "main_url": "/assets/Programs/1/mainurl.jpg",
     "course_type1": "Personal Training Course",
     "Personal_description1": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
@@ -23,19 +116,21 @@
     "beginner_friendly2": true,
     "female_oriented2": true,
     "age_range2": "25-40",
-    "price2": 2400,
+    "price2": 2500,
     "group_url2": "/assets/Programs/1/Group.jpg",
     "group_timing": [
       {
-         "times": "6:00am to 7:00am IST",
-       "session": "Morning"
-       },
-      { 
-        "times": "6:00pm to 7:00pm IST",
-         "session": "Evening" 
-        }
+        "times": "7:00am to 8:00am IST",
+       "link":"https://us06web.zoom.us/j/6425164108?pwd=XnWXyXgt5skd2z5wSHu7nfp0hRSkXL.1&omn=73581845534",
+      "session": "Morning"
+      },
+     { 
+       "times": "6:30pm to 7:30pm IST",
+       "link":"https://us06web.zoom.us/j/6425164108?pwd=XnWXyXgt5skd2z5wSHu7nfp0hRSkXL.1&omn=81840038796",
+        "session": "Evening" 
+       }
     ],
-    "group_starting_date": "2024-01-10",
+    "group_starting_date": "2024-03-04",
     "group_batch_size": "60",
     "personal_duration": [
       {
@@ -54,108 +149,41 @@
     "group_duration": [
       {
         "timing1": "1 Month",
-        "price3": 2400
-      },
-      {
-        "timing1": "4 Month",
-        "price3": 9400
-      },
-      {
-        "timing1": "6 Month",
-        "price3": 14000
-      },
-      {
-        "timing1": "12 Month",
-        "price3": 28000
+        "price3": 2500
       }
     ],
     "banner1":"/assets/Programs/1/banner1.jpg",
     "banner2":"/assets/Programs/1/banner2.jpg",
     "banner3":"/assets/Programs/1/banner3.jpg",
-    "banner4":"/assets/Programs/1/banner4.jpg"
-  },
-  {
-    "_id": 2,
-    "name": "Weight Loss ",
-    "description1": "  Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga .This program  is  designed  for  weight loss ,postural yoga , circular movements and yoga movements etc . Incorporate  these postures into your daily schedule for generally enhancements in stretching  and wellness .We will be focusing with more intensity to increase your heart rate high during the session and burn more calories . We will help you to achieve your goals with right yogic practice.",
-    "description":"Many of us are incapable to require out any time for regular gyming or walking.  If you’re  one of them then this program  is for you . This program will incorporate yoga styles like Ashtanga ,vinyasa , Power yoga and also restorative yoga .",
-    "main_url": "/assets/Programs/2/mainurl.jpg",
-    "course_type1": "Personal Training Course",
-    "Personal_description1": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
-    "live_sessions1": 60,
-    "recorded_sessions1": 80,
-    "course_duration_days1": 78,
-    "beginner_friendly1": true,
-    "female_oriented1": true,
-    "age_range1": "25-40",
-    "price1": 30000,
-    "personal_url1": "/assets/Programs/2/Personal.jpg",
-    "course_type2": "Group Training Course",
-    "Group_description2": "Occupying a small chunk in the our organisation strives to make yoga accessible and convenient to every citizen of the world. Get on board with us to start your journey towards a healthier life.",
-    "live_sessions2": 60,
-    "recorded_sessions2": 80,
-    "course_duration_days2": 78,
-    "beginner_friendly2": true,
-    "female_oriented2": true,
-    "age_range2": "25-40",
-    "price2": 2400,
-    "group_url2": "/assets/Programs/2/Group.jpg",
-    "group_timing": [
-      {
-         "times": "6:00am to 7:00am IST",
-       "session": "Morning"
-       },
-      { 
-        "times": "8:00am to 9:00am IST",
-         "session": "Morning" 
-        },
-      { 
-        "times": "4:00pm to 5:00pm IST",
-         "session": "Evening" 
-        },
-        { 
-        "times": "7:00pm to 8:00pm IST",
-         "session": "Evening" 
-        }
+    "banner4":"/assets/Programs/1/banner4.jpg",
+    "group_benefits":[
+      { "icon":"","heading":"Yoga session" },
+      { "icon":"","heading":"Free workshops" },
+      { "icon":"","heading":"Consultancy" },
+      { "icon":"","heading":"6 days classes/week " },
+      { "icon":"","heading":"Twenty four yoga sessions/month" },
+      { "icon":"","heading":"Every age group" }
     ],
-    "group_starting_date": "2024-01-10",
-    "group_batch_size": "60",
-    "personal_duration": [
-      {
-        "timing": "1 Month",
-        "price": 5000
-      },
-      {
-        "timing": "3 Month",
-        "price": 15000
-      },
-      {
-        "timing": "9 Month",
-        "price": 25000
-      }
+    "personal_benefits":[
+      { "icon":"","heading":"Online Live sessions" },
+      { "icon":"","heading":"Recorded sessions" },
+      { "icon":"","heading":"Free Workshops " },
+      { "icon":"","heading":"Free personal consultation " },
+      { "icon":"","heading":"Diet and health tips " },
+      { "icon":"","heading":"Weekly encouraging tasks  " },
+      { "icon":"","heading":"Yogaasana,  pranayama and meditation " }
     ],
-    "group_duration": [
-      {
-        "timing1": "1 Month",
-        "price3": 2400
-      },
-      {
-        "timing1": "4 Month",
-        "price3": 9400
-      },
-      {
-        "timing1": "6 Month",
-        "price3": 14000
-      },
-      {
-        "timing1": "12 Month",
-        "price3": 28000
-      }
-    ],
-  "banner1":"/assets/Programs/1/banner1.jpg",
-      "banner2":"/assets/Programs/2/banner2.jpg",
-      "banner3":"/assets/Programs/2/banner3.jpg",
-      "banner4":"/assets/Programs/2/banner4.jpeg"
-     
+    "group_card_description":"This program  helps you to expands the capacity to cope with stress and nervousness, works on interactive abilities , profound prosperity, tactile ,mental and actual wellbeing , improve concentration.",
+    "personal_card_description":"In personal training  we customized the session according to the person needs . First we will examine your specific necessities and objectives, capacity ,limits  and then we will make a program for you . ",
+    "benefits":[
+      {"heading":"Stress Management","icon":"/assets/Programs/1/benefits/stress_management.svg"},
+      {"heading":"Self Awareness","icon":"/assets/Programs/1/benefits/Self_Awareness.svg"},
+      {"heading":"Increase Positivity","icon":"/assets/Programs/1/benefits/happiness.svg"},
+      {"heading":"Imagination & Creativity","icon":"/assets/Programs/1/benefits/Imagination.svg"},
+      {"heading":"Patience & Tolerance","icon":"/assets/Programs/1/benefits/patience.svg"},
+      {"heading":"Improve Sleep Quality","icon":"/assets/Programs/1/benefits/sleep.svg"},
+      {"heading":"Lower Heart Rate","icon":"/assets/Programs/1/benefits/heartrate.svg"}
+    ]
   }
+  
 ]
