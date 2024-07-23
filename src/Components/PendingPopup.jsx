@@ -8,7 +8,7 @@ function PendingPopup({setToggle,data,value}) {
     {
         setToggle({...data,message:"...loading"});
       try {
-         const res=await axios.put(`https://shivaay-shakti-backend-1.onrender.com/api/purchase/pending/${value?._id}`,{
+         const res=await axios.put(`http://localhost:5000/api/purchase/pending/${value?._id}`,{
           transaction_status:"completed"
          },{ headers:{
           Authorization:localStorage.getItem('jwt')

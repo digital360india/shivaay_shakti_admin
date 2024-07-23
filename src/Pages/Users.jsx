@@ -12,7 +12,7 @@ export default function Users() {
   async function getdata()
   {
     try{
-      const res=await axios.get("https://shivaay-shakti-backend-1.onrender.com/api/auth",{
+      const res=await axios.get("http://localhost:5000/api/auth",{
       // const res=await axios.get("http://localhost:5000/api/auth",{
         headers:{
           Authorization:localStorage.getItem('jwt')

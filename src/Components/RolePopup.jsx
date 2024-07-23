@@ -11,7 +11,7 @@ function RolePopup({setToggle,data,value}) {
         console.log(data?.isAdmin);
         if(data?.isAdmin!==""){
       try {
-         const res=await axios.put(`https://shivaay-shakti-backend-1.onrender.com/api/auth/update/${value?._id}`,{
+         const res=await axios.put(`http://localhost:5000/api/auth/update/${value?._id}`,{
           isAdmin:data?.isAdmin
          },{ headers:{
           Authorization:localStorage.getItem('jwt')

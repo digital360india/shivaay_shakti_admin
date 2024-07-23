@@ -10,7 +10,7 @@ function Courses() {
   async function adddata()
   {
     try{
-     const res=await axios.get('https://shivaay-shakti-backend-1.onrender.com/api/course');
+     const res=await axios.get('http://localhost:5000/api/course');
      //console.log(res.data.data);
      setData(res.data.data);
     }

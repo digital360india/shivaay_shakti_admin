@@ -9,7 +9,7 @@ export default function Transaction() {
   async function getdata()
   {
     try{
-      const res=await axios.get("https://shivaay-shakti-backend-1.onrender.com/api/purchase/completed",{
+      const res=await axios.get("http://localhost:5000/api/purchase/completed",{
       // const res=await axios.get("http://localhost:5000/api/purchase/completed",{
         headers:{
           Authorization:localStorage.getItem('jwt')

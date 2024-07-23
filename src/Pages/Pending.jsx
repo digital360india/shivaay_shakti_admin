@@ -11,8 +11,8 @@ export default function Pending() {
   async function getdata()
   {
     try{
-      // const res=await axios.get("https://shivaay-shakti-backend-1.onrender.com/api/auth",{
-      const res=await axios.get("https://shivaay-shakti-backend-1.onrender.com/api/purchase/pending",{
+      // const res=await axios.get("http://localhost:5000/api/auth",{
+      const res=await axios.get("http://localhost:5000/api/purchase/pending",{
         headers:{
           Authorization:localStorage.getItem('jwt')
         }

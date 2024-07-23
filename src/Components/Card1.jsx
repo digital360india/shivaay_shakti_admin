@@ -13,7 +13,7 @@ export default function Card1({value,toggle,setToggle}) {
   {
     //console.log(value)
     try{
-    const res=await axios.delete(`https://shivaay-shakti-backend-1.onrender.com/api/course/${value?._id}`,
+    const res=await axios.delete(`http://localhost:5000/api/course/${value?._id}`,
     {
       headers:{
         Authorization:localStorage.getItem('jwt')

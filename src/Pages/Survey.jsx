@@ -9,7 +9,7 @@ const Survey = () => {
   {
     console.log(id);
     try{
-     const res=await axios.delete(`https://shivaay-shakti-backend-1.onrender.com/api/survey/${id}`,{
+     const res=await axios.delete(`http://localhost:5000/api/survey/${id}`,{
       headers:{
         Authorization:localStorage.getItem('jwt')
       }
@@ -27,7 +27,7 @@ const Survey = () => {
   async function getdata()
   {
     try{
-      const res=await axios.get("https://shivaay-shakti-backend-1.onrender.com/api/survey",{
+      const res=await axios.get("http://localhost:5000/api/survey",{
         headers:{
           Authorization:localStorage.getItem('jwt')
         }

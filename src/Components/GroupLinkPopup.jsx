@@ -12,7 +12,7 @@ function GroupLinkPopup({setToggle,data,value}) {
         setToggle({...data,message:"...loading"});
         if(data?.link[i]!==undefined)
       try {
-         const res=await axios.put(`https://shivaay-shakti-backend-1.onrender.com/api/purchase/grouplink`,{
+         const res=await axios.put(`http://localhost:5000/api/purchase/grouplink`,{
         //  const res=await axios.put(`http://localhost:5000/api/purchase/grouplink`,{
           link:data?.link[i],
           course_name:value?.name,

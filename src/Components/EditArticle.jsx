@@ -52,7 +52,7 @@ function EditArticle({toggle2,setToggle2,value,setToggle}) {
               delete data.loading;
               delete data.message;
               delete data.image1;
-         const response=await axios.put(`https://shivaay-shakti-backend-1.onrender.com/api/article/${value._id}`,data,{
+         const response=await axios.put(`http://localhost:5000/api/article/${value._id}`,data,{
             headers:{
                 Authorization:localStorage.getItem('jwt')
             }

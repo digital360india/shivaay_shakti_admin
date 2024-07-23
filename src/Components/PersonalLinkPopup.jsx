@@ -10,7 +10,7 @@ function PersonalLinkPopup({setToggle,data,value}) {
       console.log(value?._id)
       if(data?.link!=="")
      { try {
-         const res=await axios.put(`https://shivaay-shakti-backend-1.onrender.com/api/purchase/personallink/${value?._id}`,{
+         const res=await axios.put(`http://localhost:5000/api/purchase/personallink/${value?._id}`,{
         //  const res=await axios.put(`http://localhost:5000/api/purchase/personallink/${value?._id}`,{
           link:data?.link,
          },{ headers:{

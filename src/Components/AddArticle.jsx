@@ -49,7 +49,7 @@ function AddArticle({toggle,setToggle}) {
               delete data.loading;
               delete data.message;
               delete data.image1;
-         const response=await axios.post('https://shivaay-shakti-backend-1.onrender.com/api/article',data,{
+         const response=await axios.post('http://localhost:5000/api/article',data,{
             headers:{
                 Authorization:localStorage.getItem('jwt')
             }
