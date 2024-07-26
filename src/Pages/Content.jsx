@@ -13,7 +13,7 @@ function Content() {
   async function getdata()
   {
   try{
- const response=await axios.get('http://localhost:5000/api/article');
+ const response=await axios.get('https://shivaay-shakti-backend-vm3k.onrender.com/api/article');
  console.log(response);
  if(response.data.success===true)
  {
@@ -32,7 +32,7 @@ setData(response?.data?.dta)
   async function handleDelete(id)
   {
     try{
-  const response=await axios.delete(`http://localhost:5000/api/article/${id}`)
+  const response=await axios.delete(`https://shivaay-shakti-backend-vm3k.onrender.com/api/article/${id}`)
   if(response.data.success=true)
   getdata();
     }

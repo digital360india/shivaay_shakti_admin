@@ -12,8 +12,8 @@ export default function Users() {
   async function getdata()
   {
     try{
-      const res=await axios.get("http://localhost:5000/api/auth",{
-      // const res=await axios.get("http://localhost:5000/api/auth",{
+      const res=await axios.get("https://shivaay-shakti-backend-vm3k.onrender.com/api/auth",{
+      // const res=await axios.get("https://shivaay-shakti-backend-vm3k.onrender.com/api/auth",{
         headers:{
           Authorization:localStorage.getItem('jwt')
         }

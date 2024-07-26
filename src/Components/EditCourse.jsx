@@ -118,7 +118,7 @@ function EditCourse({ toggle1, setToggle1,value,setToggle }) {
       delete data.image3;
       delete data.message;
       delete data.loading;
-      const res=await axios.put(`http://localhost:5000/api/course/${value?._id}`,data,{
+      const res=await axios.put(`https://shivaay-shakti-backend-vm3k.onrender.com/api/course/${value?._id}`,data,{
         headers:{
           Authorization:localStorage.getItem('jwt')
         }

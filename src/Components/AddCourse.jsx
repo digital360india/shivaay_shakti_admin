@@ -153,7 +153,7 @@ function AddCourse({ toggle, setToggle }) {
       delete data.add;
       delete data.add1;
       console.log(data);
-      const res=await axios.post("http://localhost:5000/api/course",data,{
+      const res=await axios.post("https://shivaay-shakti-backend-vm3k.onrender.com/api/course",data,{
         headers:{
           Authorization:localStorage.getItem('jwt')
         }

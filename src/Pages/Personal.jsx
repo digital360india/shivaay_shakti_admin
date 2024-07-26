@@ -14,7 +14,7 @@ function Personal() {
   async function getdata()
   {
     try{
-  const response=await axios.get("http://localhost:5000/api/purchase/personal",{ headers:{
+  const response=await axios.get("https://shivaay-shakti-backend-vm3k.onrender.com/api/purchase/personal",{ headers:{
     Authorization:localStorage.getItem('jwt')
   }});
   console.log(response?.data?.data);
